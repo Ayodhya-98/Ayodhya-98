@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayodhya-98" alt="ayodhya-98" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel,Mysql,React**
+- 🌱 I’m currently learning **React,Typescript,Javascript,Redux,HTML,Css**
 
 - 📫 How to reach me **ayodyanirmanirm@gmail.com**
 
